@@ -1,0 +1,5 @@
+fp-info-cache
+gerber.zip
+*-backups/
+*.lck
+support/
