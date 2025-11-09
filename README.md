@@ -1,17 +1,24 @@
 lp-np
 =====
 
-**2025-10-15**: Current status, PCB is done next order all required parts and 3d-printing.
-
-![front](images/front.png)
-
 The Low Profile - Numpad (lp-np) is my first attempt at creating my own PCB from scratch.
 This was done with the long-lasting wish to create some hardware.
 A keyboard (numpad in this case) is a first project with less complexity on the used parts and hardware.
 In the past I gathered some experience in ordering and soldering a [Corne](https://github.com/foostan/crkbd) keyboard
 and for creating this project I used the KiCad files as a template.
-This helped me to get the (hopefully) right schematic and after some trial and error a layout that looks right.
-The next step is to order the parts and get hold on a hotplate.
+This helped me to get the right schematic and after some trial and error a layout that looks right.
+
+**2025-11-09**: Assembly done
+
+![assembled](images/assembled.jpg) 
+
+**2025-10-28**: PCB has arrived
+
+![ordered](images/ordered.jpg) 
+
+**2025-10-15**: PCB is done next order all required parts and 3d-printing.
+
+![front](images/front.png)
 
 ![back](images/back.png)
 
